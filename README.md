@@ -1,3 +1,3 @@
-# Assignment 3: Classes and Objects
+# example-inheritance
 
-A refresher assignment on classes and objects for COSC-2436.
+An example of how to use inheritance in C++.

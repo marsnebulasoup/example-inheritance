@@ -1,7 +1,7 @@
 /*********************
 Name: Kevin Bryniak
 Assignment: Classes and Objects
-Purpose: A refresher assignment on classes and objects.
+Purpose: An example of how to use inheritance in C++.
 **********************/
 
 #ifndef LB_FUNCTIONS_H
